@@ -3,7 +3,7 @@ backcall==0.1.0
 boto3==1.9.32
 botocore==1.12.32
 decorator==4.3.0
-Django==2.1.2
+Django==2.2.13
 django-graphql-jwt==0.1.14
 docutils==0.14
 graphene==2.1.3
